@@ -1,0 +1,5 @@
+C:\Users\Aluno Noite\source\repos\TesterCore\TersterMSTest\obj\Debug\net8.0\TersterMSTest.csproj.AssemblyReference.cache
+C:\Users\Aluno Noite\source\repos\TesterCore\TersterMSTest\obj\Debug\net8.0\TersterMSTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno Noite\source\repos\TesterCore\TersterMSTest\obj\Debug\net8.0\TersterMSTest.AssemblyInfoInputs.cache
+C:\Users\Aluno Noite\source\repos\TesterCore\TersterMSTest\obj\Debug\net8.0\TersterMSTest.AssemblyInfo.cs
+C:\Users\Aluno Noite\source\repos\TesterCore\TersterMSTest\obj\Debug\net8.0\TersterMSTest.csproj.CoreCompileInputs.cache
